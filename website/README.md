@@ -1,6 +1,6 @@
-# Hidden Times Music
+# musicSite-Template
 
-A landing page for Hidden Times Music built with React. This is one of many programs I have programmed for practice to build my skills in front-end development and modern web design.
+A music landing page for Hidden Times Music built with React. This is one of many programs I have programmed for practice to build my skills in front-end development and modern web design.
 
 ## Features
 
