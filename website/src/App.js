@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="app">
       <nav className="navbar">
-        <div className="logo">Hidden Times</div>
+        <div className="logo">HIDDENTIMES</div>
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>
           <li><a href="#tracks">Tracks</a></li>
@@ -26,7 +26,7 @@ function App() {
 
       <section id="home" className="hero">
         <div className="hero-content">
-          <h1>Hidden Times Music</h1>
+          <h1>HIDDENTIMES Music</h1>
           <p className="tagline">Discover the sound beyond time</p>
           <a href="#tracks" className="cta-button">Explore Tracks</a>
         </div>
@@ -55,7 +55,7 @@ function App() {
       <section id="about" className="about-section">
         <h2>About</h2>
         <p>
-          Hidden Times Music is a space for sounds that live between moments --
+          HIDDENTIMES Music is a space for sounds that live between moments --
           ambient textures, downtempo beats, and atmospheric compositions
           crafted for listeners who appreciate depth over noise.
         </p>
@@ -70,7 +70,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <p>Hidden Times Music</p>
+        <p>HIDDENTIMES Music</p>
       </footer>
     </div>
   );
