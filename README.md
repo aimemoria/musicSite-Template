@@ -15,19 +15,15 @@ A music landing page for HIDDENTIMES Music built with React. This is one of many
 ## How to Run
 
 1. Make sure you have Node.js installed (v14 or higher).
-2. Navigate to the website directory:
-   ```
-   cd website
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```
    npm start
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Build for Production
 
@@ -40,16 +36,15 @@ This creates an optimized production build in the `build` folder.
 ## Project Structure
 
 ```
-website/
-  public/
-    index.html        - HTML template
-    manifest.json     - PWA manifest
-  src/
-    App.js            - Main application component
-    App.css           - Application styles
-    App.test.js       - Component tests
-    index.js          - Application entry point
-    index.css         - Global styles
+public/
+  index.html        - HTML template
+  manifest.json     - PWA manifest
+src/
+  App.js            - Main application component
+  App.css           - Application styles
+  App.test.js       - Component tests
+  index.js          - Application entry point
+  index.css         - Global styles
 ```
 
 ## Tech Stack
